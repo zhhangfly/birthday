@@ -30,13 +30,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始了哦",
-        play: "慢慢喜欢你，就这样老去",
+        turn_on: "准备好了就点我哦",
+        play: "慢慢喜欢你 慢慢的老去",
         bannar_coming: "b-ling b-ling",
-        balloons_flying: "飘~",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
+        balloons_flying: "呼~",
+        cake_fadein: "送给你",
+        light_candle: "要有光",
         wish_message: "生日快乐",
-        story: "别说话，点我！",
+        story: "从前有座山，山上有座庙，庙里。。。",
     }
 };
